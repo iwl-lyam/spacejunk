@@ -1,0 +1,26 @@
+{
+  "name": "spacejunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itwithlyam/spacejunk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/itwithlyam/spacejunk/issues"
+  },
+  "homepage": "https://github.com/itwithlyam/spacejunk#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0"
+  }
+}
