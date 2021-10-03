@@ -8,5 +8,7 @@
 
 ## Endpoints
 GET / **(home)**
+
 GET /:limit
+
 GET /:limit/json
